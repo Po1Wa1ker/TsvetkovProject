@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  array.cpp
+E:\C++\indiv2_1\indiv1\indiv1\array.cpp(27,17): warning C4154: удаление массива; выполнено преобразование к указателю
+  Создание кода...
+  lab3.vcxproj -> E:\C++\indiv2_1\indiv1\indiv1\Debug\indiv1.exe

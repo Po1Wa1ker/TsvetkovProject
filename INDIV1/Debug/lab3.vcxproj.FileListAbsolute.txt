@@ -1,0 +1,2 @@
+E:\C++\indiv2_1\indiv1\indiv1\Debug\indiv1.exe
+E:\C++\indiv2_1\indiv1\indiv1\Debug\indiv1.pdb
